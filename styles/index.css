@@ -1,0 +1,12 @@
+
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+}
+
+#todays-challenge{
+    color:chartreuse;
+    font-weight: 600;
+    font-size: 50px;
+}
